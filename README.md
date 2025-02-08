@@ -8,9 +8,9 @@ Hi there! I’m the founder of R.T. MILELE Beauty, a professional braider and se
 
 My goal is to provide high-quality, long-lasting styles that boost confidence and beauty.
 
-💻 About This GitHub
+💻 About Me
 
-This GitHub repository is where I manage my business website and digital presence. Here, you’ll find:
+This is where I manage my business website and digital presence. Here, you’ll find:
 ✅ My portfolio & services
 ✅ A booking system for appointments
 ✅ Contact & social media links
